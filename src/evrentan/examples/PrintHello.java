@@ -1,9 +1,9 @@
 package evrentan.examples;
 
-public class PrintHelloClass {
+public class PrintHello {
   private String value;
 
-  public PrintHelloClass() {}
+  public PrintHello() {}
 
   public String getValue() {return value;}
 
